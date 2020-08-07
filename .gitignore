@@ -150,3 +150,4 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/git,java,maven,windows,eclipse
 *.properties
+src/main/webapp/META-INF/maven/com.test2/team2/pom.properties
